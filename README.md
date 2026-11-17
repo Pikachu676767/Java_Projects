@@ -49,7 +49,7 @@
 **What I Learned:**
 - This made me proud making this, it tested my creativity in finding shorter code version.
 
-**Link:**
+**Repository:**
 ```
 https://github.com/yourusername/project
 ```
