@@ -34,7 +34,7 @@
 
 **Repository:**
 ```
-https://github.com/yourusername/project
+![Lab Task #1](Midterms/Lab_Task#1)
 ```
 
 ---
