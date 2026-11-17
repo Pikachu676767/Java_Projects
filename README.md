@@ -32,10 +32,7 @@
 **What I Learned:**
 - How to uh use 2D Arrays
 
-**Repository:**
-```
-![Lab Task #1](Midterms/Lab_Task#1)
-```
+**Link:** ![Lab Task #1](Midterms/Lab_Task#1)
 
 ---
 
@@ -52,7 +49,7 @@
 **What I Learned:**
 - This made me proud making this, it tested my creativity in finding shorter code version.
 
-**Repository:**
+**Link:**
 ```
 https://github.com/yourusername/project
 ```
