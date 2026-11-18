@@ -32,7 +32,7 @@
 **What I Learned:**
 - How to uh use 2D Arrays
 
-**Link:** ![Lab Task #1](Java_Projects/Midterms/Lab_Task#1)
+**Link:** ![Lab Task #1](Java_Projects/Midterms/LabTask1)
 
 ---
 
