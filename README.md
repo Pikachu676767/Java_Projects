@@ -61,7 +61,7 @@
 
 - ✅ Completed Java Fundamentals
 - ✅ Built multiple academic projects
-- ✅ Learned Git and GitHub basics
+- ✅ Learned GitHub basics
 
 ---
 
@@ -70,7 +70,7 @@
 - ❤️ I like to immerse myself in red light therapy (code errors).
 - 🎨 Colors are cool.
 - 🎮 I play games during my free time.
-- 🪲 Why don't we use an anti-bug spray instead?
+- 🪲 "Why don't we use an anti-bug spray instead?"
 
 ---
 
