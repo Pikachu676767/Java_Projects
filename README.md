@@ -12,8 +12,8 @@
 - ⚡ Fun Fact: I'm not sure if I can safely disclose my real name in a public account
 
 ### Current Goals
-- [ ] Live
-- [ ] Be rich
+- [ ] Live with flourish
+- [ ] Be a pro at this
 - [ ] Go to another country
 
 ---
