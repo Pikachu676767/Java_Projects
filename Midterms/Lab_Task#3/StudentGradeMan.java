@@ -68,10 +68,10 @@ public class StudentGradeMan {
         
         String yearLevel = " ";
         switch (studentYearLevel) {
-            case 1: yearLevel = "First Year";
-            case 2: yearLevel = "Second Year";
-            case 3: yearLevel = "Third Year";
-            case 4: yearLevel = "Fourth Year";
+            case 1: yearLevel = "First Year"; break;
+            case 2: yearLevel = "Second Year"; break;
+            case 3: yearLevel = "Third Year"; break;
+            case 4: yearLevel = "Fourth Year"; break;
         }
         System.out.printf("Student Details: %d %s %s%n", studentNumber, studentCourse, yearLevel);
         System.out.println("Full Name: " + studentName);
