@@ -24,7 +24,6 @@
 **Description:** I made a 2D Array project named Matrix. It's where the user inputs a single integer to each cell of the table and computes each row and column total.
 
 **Technologies Used:**
-- Java
 - Scanner Class
 - 2D Array
 - Nested for loops
@@ -40,7 +39,6 @@
 **Description:** This program utilizes 3D Arrays. It contains a section, each having students and their enrolled subjects. The user inputs their grades in each subject where the program computes each individual student average grade and the whole section's average grade.
 
 **Technologies Used:**
-- Java
 - Scanner Class
 - 3D Array
 - Nested for loop
@@ -50,6 +48,19 @@
 - This made me proud making this, it tested my creativity in finding shorter code version.
 
 **Link:** [Lab Task #2](./Midterms/Lab_Task%232)
+
+### 3. StudentGradeMan MODIFIED
+**Description:** METHODSSS
+
+**Technologies Used:**
+- Scanner Class
+- Method
+- Switch statements
+
+**What I Learned:**
+- Methods.
+
+**Link:** [Lab Task #3](./Midterms/Lab_Task%233)
 
 ---
 
